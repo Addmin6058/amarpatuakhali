@@ -1,0 +1,6 @@
+{
+  "name": "Amar Patuakhali - Digital District Platform",
+  "description": "পটুয়াখালী জেলার পূর্ণাঙ্গ ডিজিটাল সেবা প্ল্যাটফর্ম - স্থানীয় তথ্য, চিকিৎসা, পরিবহন, কৃষি, দর্শনীয় স্থান ও জরুরি সেবার সহজ সংযোগ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
